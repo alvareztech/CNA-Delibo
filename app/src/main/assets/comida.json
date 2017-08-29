@@ -1,0 +1,49 @@
+{
+  "departamentos": [
+    {
+      "nombre": "Cochabamba",
+      "nro_provincias" : 3,
+      "platos": [
+        {
+          "nombre": "Silpancho",
+          "descripcion": "El silpancho es un plato de comida compuesto por arroz, patatas, carne de pierna de vaca y huevo. En primer lugar, se cuecen y fríen las patatas. Después, se mezcla pan molido con sal y pimienta y se reboza la carne con él."
+        },
+        {
+          "nombre": "Pique macho",
+          "descripcion": "Los ingredientes principales del pique macho son trozos de lomo de vaca en su jugo y salchichas fritas. Éstos se acompañan con patatas, huevo, pimiento y tomate, alimentos que también se fríen. Se puede añadir mayonesa u otras salsas."
+        },
+        {
+          "nombre": "Chicharrón",
+          "descripcion": "Para elaborar el chicharrón, en primer lugar se cuece carne de cerdo y se deja reposar. Al día siguiente, se le añade cebolla, sal, pimienta, comino, ajo, orégano y ají colorado o chile, y se hierve hasta que el agua se haya evaporado."
+        },
+        {
+          "nombre": "Sopa de maní",
+          "descripcion": "El maní es un fruto seco que lleva miles de años utilizándose en la gastronomía de Latinoamérica. Para preparar la sopa de maní, en primer lugar se pela este fruto y se hornean fideos durante unos ocho minutos."
+        }
+      ]
+    },
+    {
+      "nombre": "La Paz",
+      "platos": [
+        {
+          "nombre": "Plato Paceño",
+          "descripcion": "El plato paceño tan sólo se cocina entre febrero y abril, pues es la época en la que se recolectan sus ingredientes. Por un lado, se cuece maíz o choclo, patatas y habas sin pelar."
+        },
+        {
+          "nombre": "Picana",
+          "descripcion": "La picana es uno de los platos de comida navideños más elaborados en Bolivia. Lleva gran cantidad de carne, pues en él encontramos bistec de vaca, cordero y pollo. Ésta se acompaña de tunta (chuño blanco), patatas, zanahoria, nabo y cebolla. Se le puede añadir llajua."
+        },
+        {
+          "nombre": "Falso conejo",
+          "descripcion": "El falso conejo se elabora con carne de vaca. En primer lugar, se prepara el acompañamiento. Para ello, se fríe y después se cuece cebolla picada, ají amarillo, ajo, pimienta, comino y orégano. Tras esto, se añaden guisantes y agua, y se vuelve a cocer."
+        }
+      ]
+    },
+    {
+      "nombre": "Oruro"
+    },
+    {
+      "nombre": "Beni"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Delibo</string>
+    <string name="nro_provincias">Número de provincias: %1$d</string>
+</resources>
