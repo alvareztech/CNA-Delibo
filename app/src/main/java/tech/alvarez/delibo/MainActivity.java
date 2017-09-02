@@ -44,9 +44,9 @@ public class MainActivity extends AppCompatActivity implements DepartamentosAdap
     private void cargarDatos() {
         String json = Util.leerJSON(this);
 
-        Pais departamentos = gson.fromJson(json, Pais.class);
+        Pais pais = gson.fromJson(json, Pais.class);
 
-        departamentosAdapter.setDataset(departamentos.getDepartamentos());
+        departamentosAdapter.setDataset(pais.getDepartamentos());
     }
 
     @Override
